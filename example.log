@@ -1,1 +1,8 @@
+2024-04-22 10:15:23 - INFO - Application started
+2024-04-22 10:16:05 - WARNING - Disk space is running low
+2024-04-22 10:16:30 - ERROR - Connection to database failed
+2024-04-22 10:17:12 - INFO - User logged in successfully
+2024-04-22 10:18:45 - ERROR - File not found: data.txt
+2024-04-22 10:19:02 - EXCEPTION - Division by zero error
+2024-04-22 10:19:35 - INFO - Task completed
 
